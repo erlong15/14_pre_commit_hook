@@ -16,7 +16,8 @@ root1, root2 = get_roots(a, b, c)
 
 # Auto-tests
 
-There is an autotest realization. The code has been checked every time before commit.
+There is an autotest realization. 
+The code has been checked every time before commit.
 
 
 # Project Goals
