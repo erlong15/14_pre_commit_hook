@@ -4,6 +4,8 @@ module realizes a function for finding solutions of quadratic equations
 
 # How to use
 
+You should import the function into your code
+
 ```
 from quadratic_equation import get_roots
 a = 1
