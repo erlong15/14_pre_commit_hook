@@ -19,6 +19,12 @@ root1, root2 = get_roots(a, b, c)
 There is an autotest realization. 
 The code has been checked every time before commit.
 
+This is a sample how to add pre-commit hook with auto-tests to your local repostory
+
+```
+ln -s .git/hooks/pre-commit ./hooks/pre-commit.sh 
+```
+
 
 # Project Goals
 
