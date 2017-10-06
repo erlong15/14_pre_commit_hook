@@ -22,7 +22,7 @@ The code has been checked every time before commit.
 This is a sample how to add pre-commit hook with auto-tests to your local repostory
 
 ```
-ln -s .git/hooks/pre-commit ./hooks/pre-commit.sh 
+ln -s ../../hooks/pre-commit.sh .git/hooks/pre-commit
 ```
 
 
